@@ -5,4 +5,4 @@
   npm install
   npm run build
   npm start
-
+  If page does not automatically load - visit localhost:3000
