@@ -49,6 +49,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h1> Breaking Bad-atizer </h1>
         <div>
           <input value={this.state.value} onChange={this.handleChange}/>
         </div>
